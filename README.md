@@ -21,19 +21,3 @@ implemented successfully and the LED lit up whenever there was dark.The
 location of the blind person was successfully sent to their family members via
 message along with the live coordinates of the person.
 
-Conclusion:
-We can confidently use the Blind stick for the needy and the visually impaired
-people as it can guide them through various obstacles and even can be helpful to
-them in case of emergency. The blind stick will be helpful in the following ways-
-1) Help blind people to detect if there are upstanding obstacles ahead.
-
-2) Help blind people to get alerts about potholes, digs or water puddles in front,
-using various kinds of beeps.
-3) Help the person to find and locate his/her stick using a buzzer if it is away.
-4) Can ask help from the nearby people in a deserted place in case of trouble with
-the help of an SOS light and buzzer.
-5) Can send his/her location to his family members in case of being lost or in any
-other emergency.
-6) Can sense lighting conditions and switch on the light on the stick if it is a dark
-surrounding. This would allow them to be visible to other people and avoid any
-kind of accidents.
